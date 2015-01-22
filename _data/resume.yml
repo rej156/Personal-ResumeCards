@@ -6,7 +6,8 @@ demo: false
 
 photo: "https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/087/17a/05108ff.jpg"
 name: "Eric John Juta"
-copy: "2015 Queen Mary BSc Computer Science Graduate Software Engineer"
+copy: "Graduate Software Engineer <br>
+2012-2015 Queen Mary UoL BSc Computer Science"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
