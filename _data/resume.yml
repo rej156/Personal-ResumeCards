@@ -4,9 +4,9 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/087/17a/05108ff.jpg"
+photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAIWAAAAJDM2MjhjMDBhLWIyZjQtNDRmNy04ZWUyLWIzN2I0OGExOWUzYg.jpg"
 name: "Eric John Juta"
-copy: "Graduate Software Engineer <br>
+copy: "Fullstack Software Engineer <br>
 2012-2015 Queen Mary UoL BSc Computer Science"
 
 # Color scheme based on http://www.materialui.co/colors.
