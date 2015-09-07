@@ -495,7 +495,7 @@ script + p {
   @include make-grid(sm);
 
   @page {
-    size: US-Letter;
+    size: A3;
   }
 
   body {
@@ -531,7 +531,7 @@ script + p {
   }
 
   .panel-body {
-    height: 210px;
+    height: 230px;
   }
 
   .resume-content {
